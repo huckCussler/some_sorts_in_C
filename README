@@ -1,0 +1,8 @@
+Basic sorting algorithms implemented in C, written for the summer algorithms review group at the Universiy of
+Utah.  The sorts written are selection, counting, and heap.
+
+Running any of the programs without arguments will create a default array of integers to be sorted.  Alternatively,
+a user may supply the name of a file with the elements to be sorted.  The file must contain one element per line
+and nothing else.
+
+All of the sorts are written to work on integers.
